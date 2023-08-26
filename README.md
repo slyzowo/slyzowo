@@ -7,6 +7,8 @@ and i plan to learn
 - html
 - css
 - javascript
+- mongo
+- php
 - c
 - c++
 - java
