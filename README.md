@@ -2,10 +2,11 @@ Hi, I’m @slyzoo
 
 I’m learning to code in
 - python
-
-and i plan to learn
 - html
 - css
+
+and i plan to learn
+
 - javascript
 - mongo
 - php
