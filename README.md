@@ -8,7 +8,7 @@ I’m learning to code in
 and i plan to learn
 
 - javascript
-- mongo
+- sql
 - php
 - c
 - c++
