@@ -1,12 +1,9 @@
 Hi, I’m @slyzoo
 
-I’m learning to code in
+code i would like to learn
 - python
 - html
 - css
-
-and i plan to learn
-
 - javascript
 - sql
 - php
