@@ -1,9 +1,8 @@
-Hi, I’m @slyzoo, im learning how to code and i have a few langs i would like to learn
+Hi, I’m @slyzoo, im learning how to code and i have a few programming langauges i would like to learn
 
 
 code roadmap in order and how i will learn these langs : 
 
-   
 1. javascript
 - https://youtu.be/8dWL3wF_OMw?si=KLfWxJE7ZY9GCmO3
    
