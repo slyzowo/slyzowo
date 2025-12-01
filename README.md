@@ -9,11 +9,3 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=slyzowo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=slyzowo&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=slyzowo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=slyzowo&icon=0&color=0)](https://visitcount.itsvg.in)
