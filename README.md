@@ -10,5 +10,4 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-![slyzowo's Stats](https://github-readme-stats.vercel.app/api?username=slyzowo&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ![slyzowo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slyzowo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
